@@ -23,13 +23,7 @@ cgpa,package
 - Predict new values of CGPA.
 - Graphical representation of original data and regression line.
 
-## Project Structure
-simple-regression-lab/
-├── data/
-│ └── students.csv
-├── src/
-│ ├── load_data.py
-│ ├── train.py
-│ └── main.py
-├── requirements.txt
-└── README.md
+---
+   ```bash
+   git clone https://github.com/Sabirhusseinbalal/simple-regression-lab.git
+   ```
