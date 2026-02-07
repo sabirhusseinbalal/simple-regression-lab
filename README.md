@@ -27,6 +27,7 @@ cgpa,package
    ```bash
    git clone https://github.com/Sabirhusseinbalal/simple-regression-lab.git
    ```
+---
 
 ## Machine Learning Roadmap (Beginner → Advanced)
 
@@ -91,5 +92,6 @@ cgpa,package
 - end-to-end-ml-system
 - ml-pipeline-project
 - model-monitoring-simulation
+
 
 
