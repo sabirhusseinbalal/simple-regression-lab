@@ -35,8 +35,8 @@ cgpa,package
 
 ### Stage 1: Regression Foundations
 - 👉 **simple-regression-lab**
-- [house-price-prediction-ml](https://github.com/sabirhusseinbalal/house-price-prediction-ml)
-- same-data-different-models
+- [***house-price-prediction-ml***](https://github.com/sabirhusseinbalal/house-price-prediction-ml)
+- [***same-data-different-models***](https://github.com/sabirhusseinbalal/same-data-different-models)
 
 ---
 
@@ -92,6 +92,7 @@ cgpa,package
 - end-to-end-ml-system
 - ml-pipeline-project
 - model-monitoring-simulation
+
 
 
 
