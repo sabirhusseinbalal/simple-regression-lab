@@ -29,7 +29,7 @@ cgpa,package
    ```
 ---
 
-## Machine Learning Roadmap (Beginner → Advanced)
+## Machine Learning (Beginner → Advanced)
 
 ---
 
@@ -92,6 +92,7 @@ cgpa,package
 - end-to-end-ml-system
 - ml-pipeline-project
 - model-monitoring-simulation
+
 
 
 
