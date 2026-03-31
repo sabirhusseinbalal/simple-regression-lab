@@ -5,7 +5,7 @@ An introduction to linear regression via a project.
 Makes predictions of the placement package of students depending on their CGPA through a simple linear model.
 
 **YouTube Video:**
-[Simple Linear Regression | Machine Learning Project 1]([https://youtube.com/playlist?list=PLBslpEV463BcknHrcoF_OJDyutuE1DneY&si=7PfeO4OSQCqh1wEI](https://youtu.be/6n4VQGgKqeg?si=8YAvc05zsmszBqzo))]
+[Simple Linear Regression | Machine Learning Project 1]([https://youtube.com/playlist?list=PLBslpEV463BcknHrcoF_OJDyutuE1DneY&si=7PfeO4OSQCqh1wEI](https://youtu.be/6n4VQGgKqeg?si=8YAvc05zsmszBqzo)]
 
 ## Dataset
 - Source: `data/students.csv`
